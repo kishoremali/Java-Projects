@@ -1,0 +1,16 @@
+2018-Apr-03 16:46:52:185 [run-main-0] com.code.Watcher   INFO  Welcome To Monitoring Directory Application
+2018-Apr-03 16:46:52:186 [run-main-0] com.code.Watcher   INFO  Watching Dir :/home/kishor/Demo/source
+2018-Apr-03 16:56:10:983 [run-main-0] com.code.Watcher   INFO  Welcome To Monitoring Directory Application
+2018-Apr-03 16:56:10:984 [run-main-0] com.code.Watcher   INFO  Watching Dir :/home/kishor/Demo/source
+2018-Apr-03 16:58:21:355 [run-main-0] com.code.Watcher   INFO  Welcome To Monitoring Directory Application
+2018-Apr-03 16:58:21:357 [run-main-0] com.code.Watcher   INFO  Watching Dir :/home/kishor/Demo/source
+2018-Apr-03 16:58:44:522 [run-main-0] com.code.Watcher   INFO  ENTRY_CREATE Event triggered for file: ddauhc_ddauhc_pod_csv_16feb18_exchange.zip
+2018-Apr-03 16:58:44:522 [run-main-0] com.code.Watcher   INFO  Creating file: ddauhc_ddauhc_pod_csv_16feb18_exchange.zip
+2018-Apr-03 16:58:45:523 [run-main-0] com.code.Watcher   INFO  File Growing from 0 to 38802555
+2018-Apr-03 16:58:46:524 [run-main-0] com.code.Watcher   INFO  File Growing from 38802555 to 38802555
+2018-Apr-03 16:58:46:524 [run-main-0] com.code.Watcher   INFO  Finished Growing/creating file!
+2018-Apr-03 16:58:46:524 [run-main-0] com.code.Watcher   INFO  Moving File :/home/kishor/Demo/source/ddauhc_ddauhc_pod_csv_16feb18_exchange.zip
+2018-Apr-03 16:58:46:547 [run-main-0] com.code.Watcher   INFO  Successfully moved File To :/home/kishor/Demo/dest/ddauhc_ddauhc_pod_csv_16feb18_exchange.zip
+2018-Apr-03 16:58:49:542 [run-main-0] com.code.Watcher   INFO  Successfully executed: insert into watcher.watcher_tbl(date,filename) VALUES('2018-04-03 16:58:47','/home/kishor/Demo/dest/ddauhc_ddauhc_pod_csv_16feb18_exchange.zip');
+2018-Apr-03 16:58:49:798 [run-main-0] com.code.Watcher   INFO  ENTRY_MODIFY Event triggered for file: ddauhc_ddauhc_pod_csv_16feb18_exchange.zip
+2018-Apr-03 16:58:49:799 [run-main-0] com.code.Watcher   INFO  ENTRY_DELETE Event triggered for file: ddauhc_ddauhc_pod_csv_16feb18_exchange.zip
